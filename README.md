@@ -1,4 +1,4 @@
-BrowserQuest
+瀏灠器問答小遊戲
 ============
 
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
